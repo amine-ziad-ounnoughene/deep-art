@@ -1,5 +1,5 @@
 # deep-art
-##it is a deep convolutional variational auto encoder that generate paintings like this
+## it is a deep convolutional variational auto encoder that generate paintings like this
 
 
 
